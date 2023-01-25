@@ -1,5 +1,5 @@
 {
 	"values": [
-	"anvil_repair_ingots:load"
+		"anvil_repair:load"
 	]
 }
