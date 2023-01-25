@@ -1,6 +1,6 @@
 {
 	"pack": {
-	"pack_format": 6,
-	"description": "RandomGgames' Anvil Repair Ingots"
+		"pack_format": 6,
+		"description": "Drop an iron ingot onto a damaged anvil to repair it. Created by RandomGgames."
 	}
 }
